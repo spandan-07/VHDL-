@@ -30,7 +30,7 @@ make
 ``
 <br>
 
-**Some installation required to run VHDL code on debian:**
+****
 <br>
 ``
 $ sudo apt install ghdl gtkwave -y
