@@ -1,5 +1,5 @@
 <h1> Questions</h1>
-<p> List is ordered according to date</p>
+<p>Past Questions</p>
 <ol>
   <li>080 VHDL code to implement 1 to 8 De-Multiplexer</li>
   <li>079 Jestha VHDL code for a D flip-flop</li>
